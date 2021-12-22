@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: patrickmartins89@hotmail.com
 
-- ⚡ Fun fact **Love games and play with my friends 😜**
+- ⚡ Fun fact **I love to play games with my friends 😜**
 
 <br><br>
 
