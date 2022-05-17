@@ -2,11 +2,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Patrick Martins</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔭 I’m currently interning at A Reacreativa
+- 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NodeJS
+- 🌱 I’m currently learning JavaScript, SQL, NodeJS, Python
 
-- 🤔 I’m looking for help with JavaScript, NodeJS
+- 🤔 I’m looking for help with JavaScript
 
 - 📫 How to reach me: patrickmartins89@hotmail.com
 
