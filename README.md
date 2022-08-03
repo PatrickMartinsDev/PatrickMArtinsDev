@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently looking for a job
 
+- 👌 Things I code with  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+ 
 - 🌱 I’m currently learning JavaScript, SQL, NodeJS, Python
 
 - 🤔 I’m looking for help with JavaScript
@@ -30,7 +32,7 @@
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 
 <br><br>
@@ -44,7 +46,7 @@
 
 <br><br> -->
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 🖥 &nbsp;Social Links
 
 <!-- <p align="left" style="background:yellow">
 <a href="https://codepen.io/maykbrito" target="_blank">
