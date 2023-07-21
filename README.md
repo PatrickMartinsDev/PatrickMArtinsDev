@@ -1,78 +1,39 @@
-<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/> -->
+# PatrickMartinsDev
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Patrick Martins</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p> -->
-
-- 🔭 I’m currently looking for a job
-
-- 👌 Things I code with  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
- 
-- 🌱 I’m currently learning JavaScript, SQL, NodeJS, Python
-
-- 🤔 I’m looking for help with JavaScript
-
-- 📫 How to reach me: patrickmartins89@hotmail.com
-
-- ⚡ Fun fact **I love to play games with my friends 😜**
+I'm a technology enthusiast with a passion for games and I love to learn about new languages and cultures. Specialized in back-end development in Node.js, Typescript, Python, using Docker and Django. Currently looking for an internship or a job opportunity.
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
-
-![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; -->
-<!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-
-
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/patrick-martins-81b335157/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.com/channels/@cyber8964/)
 <br><br>
 
-<!-- ## ⚙️ &nbsp;GitHub Analytics
+## Tech Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.js)
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 
-<br><br> -->
 
-## 🖥 &nbsp;Social Links
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PatrickMartinsDev&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<br><br>
 
-<!-- <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a> -->
-<!-- <a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a> -->
-<a href="https://www.linkedin.com/in/patrick-martins-81b335157/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-PatrickMartins-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/_martins_ph/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-PatrickMartins-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<!-- <a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a> -->
-</p>
+## GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PatrickMartinsDev&theme=radical&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+<br><br>
 
-<!-- <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" /> -->
+## Database Stacks
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=SQLite)
+<br><br>
 
-<!-- ### Hey there 👋
-
-- 🔭 I’m currently interning at A Reacreativa
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NodeJS, HTTP
-- 🤔 I’m looking for help with JavaScript, NodeJS
-- 📫 How to reach me: patrickmartins89@hotmail.com
-- ⚡ Fun fact: Love games and play with my friends
- -->
+## My Contributions
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickMartinsDev&repo=rentx&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PatrickMartinsDev/rentx)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickMartinsDev&repo=JavaRemoteControl&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PatrickMartinsDev/JavaRemoteControl)
